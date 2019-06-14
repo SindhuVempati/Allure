@@ -1,0 +1,7 @@
+id: my-plugin
+name: Plugin name goes here
+description: More detailed explanation of what does this plugin do.
+extensions:
+- com.kgpco.vz.allure.Plugin 
+jsFiles:
+- index.js
